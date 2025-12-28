@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+xgboost
+torch
+torchvision
+torchaudio
+fastapi
+uvicorn
+joblib
+matplotlib
+seaborn
+imbalanced-learn
