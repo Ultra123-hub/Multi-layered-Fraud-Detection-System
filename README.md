@@ -99,6 +99,7 @@ The **next article** in this series will cover:
 
 
 ## 📁 Project Structure
+
 ├── data/
 │   ├── raw/
 │   └── processed/
@@ -115,5 +116,4 @@ The **next article** in this series will cover:
 ├── Dockerfile
 ├── requirements.txt
 └── README.md
-
-
+`
