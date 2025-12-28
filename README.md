@@ -1,6 +1,5 @@
 # Multi-layered-Fraud-Detection-System
 
-# Fraud Detection System — End-to-End Machine Learning Pipeline
 
 ## 📌 Project Overview
 This project implements an end-to-end **fraud detection system** using a combination of **supervised** and **unsupervised** machine learning models. The goal is to accurately classify users as **fraudulent** or **non-fraudulent** by learning patterns from user activity and trading behavior, while addressing real-world challenges such as **class imbalance**, **feature skewness**, and **deployment readiness**. 
